@@ -78,7 +78,7 @@ Then activate it:
 
     $ workon xcolors
 
-Intall dependencies using pip:
+Install dependencies using pip:
 
     $ pip install -r requirements.txt
 
